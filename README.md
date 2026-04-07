@@ -1,12 +1,6 @@
 # About Us — Domino Effect Lab Ads
 
-Hey team,
 
-For social, SEO, and search optimisation, we need to add a proper **About Us page**.
-
-This helps search engines and AI systems clearly understand who we are, what we do, and how to represent us.
-
----
 
 # Domino Effect Lab Ads
 
